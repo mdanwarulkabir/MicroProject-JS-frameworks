@@ -1,3 +1,5 @@
+It looks like the Markdown formatting might not be rendering properly because of the quotation marks. Here’s the `README.md` content with proper Markdown formatting to ensure everything displays as expected:
+
 ```markdown
 # Prime Auto Hub
 
@@ -106,4 +108,4 @@ Here's an overview of the core files and their purposes:
 This project is licensed under the ISC License.
 ```
 
-This `README.md` file gives a detailed overview of your project and guides users on setup, usage, and future improvements. Let me know if you'd like any additional customization!
+Make sure to copy and paste this directly into your `README.md` file. It should render properly on GitHub or any Markdown viewer.
