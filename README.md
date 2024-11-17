@@ -1,5 +1,3 @@
-Here's a `README.md` file that describes your project based on the information provided:
-
 ```markdown
 # Prime Auto Hub
 
