@@ -1,6 +1,3 @@
-It looks like the Markdown formatting might not be rendering properly because of the quotation marks. Here’s the `README.md` content with proper Markdown formatting to ensure everything displays as expected:
-
-```markdown
 # Prime Auto Hub
 
 Prime Auto Hub is a car inventory web application that displays car details such as make, model, price, year, and image. It uses a REST API to serve car data stored in a JSON file and dynamically renders the data on the webpage.
